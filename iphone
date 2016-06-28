@@ -1,0 +1,3 @@
+p "This script is about to run another script."
+ph ./script.sh
+echo "This script has just run another script."
